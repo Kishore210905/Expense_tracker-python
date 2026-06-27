@@ -86,7 +86,3 @@ Average Expense = 700
 
 ---
 
-## Author
-
-Nitesh Verma
-DecodeLabs Internship Project
